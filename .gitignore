@@ -1,6 +1,5 @@
 bin
 .vscode
 !inlets.go
-inlets
 inlets-linux
 inlets-darwin
