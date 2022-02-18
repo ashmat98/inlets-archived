@@ -1,4 +1,4 @@
-module github.com/ashma98/inlets-archived
+module github.com/ashmat98/inlets-archived
 
 go 1.13
 

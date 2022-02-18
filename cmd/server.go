@@ -10,7 +10,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ashma98/inlets-archived/pkg/server"
+	"github.com/ashmat98/inlets-archived/pkg/server"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )

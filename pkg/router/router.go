@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ashma98/inlets-archived/pkg/transport"
+	"github.com/ashmat98/inlets-archived/pkg/transport"
 	"github.com/rancher/remotedialer"
 )
 
