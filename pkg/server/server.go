@@ -10,8 +10,8 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/inlets/inlets/pkg/router"
-	"github.com/inlets/inlets/pkg/transport"
+	"github.com/ashma98/inlets-archived/pkg/router"
+	"github.com/ashma98/inlets-archived/pkg/transport"
 	"github.com/rancher/remotedialer"
 	"github.com/twinj/uuid"
 	"k8s.io/apimachinery/pkg/util/proxy"
